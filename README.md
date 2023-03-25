@@ -1,5 +1,5 @@
 # MathDiceGameRK
-# This app is a simple 2-player math dice game.
+# This Android Studio app is a simple 2-player math dice game.
 # Different types of math problems will be given based on dice roll number. 
 # Roll 1: addition (1 point for correct answer)
 # Roll 2: subtraction (2 point for correct answer)
